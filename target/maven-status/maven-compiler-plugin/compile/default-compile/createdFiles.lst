@@ -1,0 +1,8 @@
+com\dvinac\hansolo\apirest\models\repository\MensajeHansoloRepository.class
+com\dvinac\hansolo\apirest\models\repository\SatRepository.class
+com\dvinac\hansolo\apirest\controllers\HanSoloController.class
+com\dvinac\hansolo\apirest\models\entity\MensajeHansolo.class
+com\dvinac\hansolo\apirest\MisionHanSoloApplication.class
+com\dvinac\hansolo\apirest\models\entity\Satelite.class
+com\dvinac\hansolo\apirest\models\services\ISatService.class
+com\dvinac\hansolo\apirest\models\services\SateliteSrvcImpl.class

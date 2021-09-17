@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.dvinac.hansolo.apirest.MisionHanSoloApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.695 s - in com.dvinac.hansolo.apirest.MisionHanSoloApplicationTests
